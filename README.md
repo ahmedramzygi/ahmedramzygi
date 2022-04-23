@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Essam Ramzy</h1>
-<h3 align="center">Interested in DevOps/Software Engineer opportunity.</h3>
+<h3 align="center">Interested in DevOps/Software Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedramzygi&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedramzygi" /> </p>
 
